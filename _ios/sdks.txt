@@ -1,0 +1,22 @@
+iOS SDKs:
+	iOS 13.5                      	-sdk iphoneos13.5
+
+iOS Simulator SDKs:
+	Simulator - iOS 13.5          	-sdk iphonesimulator13.5
+
+macOS SDKs:
+	DriverKit 19.0                	-sdk driverkit.macosx19.0
+	macOS 10.15                   	-sdk macosx10.15
+
+tvOS SDKs:
+	tvOS 13.4                     	-sdk appletvos13.4
+
+tvOS Simulator SDKs:
+	Simulator - tvOS 13.4         	-sdk appletvsimulator13.4
+
+watchOS SDKs:
+	watchOS 6.2                   	-sdk watchos6.2
+
+watchOS Simulator SDKs:
+	Simulator - watchOS 6.2       	-sdk watchsimulator6.2
+
